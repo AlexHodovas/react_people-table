@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-people-table/static/css/main.4012daac.chunk.css",
-    "main.js": "/react-people-table/static/js/main.82f24d1c.chunk.js",
-    "main.js.map": "/react-people-table/static/js/main.82f24d1c.chunk.js.map",
-    "runtime~main.js": "/react-people-table/static/js/runtime~main.4d7c018d.js",
-    "runtime~main.js.map": "/react-people-table/static/js/runtime~main.4d7c018d.js.map",
-    "static/js/2.7de0e063.chunk.js": "/react-people-table/static/js/2.7de0e063.chunk.js",
-    "static/js/2.7de0e063.chunk.js.map": "/react-people-table/static/js/2.7de0e063.chunk.js.map",
-    "index.html": "/react-people-table/index.html",
-    "precache-manifest.90ca75b7653abbbad19fee852b889657.js": "/react-people-table/precache-manifest.90ca75b7653abbbad19fee852b889657.js",
-    "service-worker.js": "/react-people-table/service-worker.js",
-    "static/css/main.4012daac.chunk.css.map": "/react-people-table/static/css/main.4012daac.chunk.css.map"
+    "main.css": "/react_people-table/static/css/main.4012daac.chunk.css",
+    "main.js": "/react_people-table/static/js/main.82f24d1c.chunk.js",
+    "main.js.map": "/react_people-table/static/js/main.82f24d1c.chunk.js.map",
+    "runtime~main.js": "/react_people-table/static/js/runtime~main.b2b73302.js",
+    "runtime~main.js.map": "/react_people-table/static/js/runtime~main.b2b73302.js.map",
+    "static/js/2.7de0e063.chunk.js": "/react_people-table/static/js/2.7de0e063.chunk.js",
+    "static/js/2.7de0e063.chunk.js.map": "/react_people-table/static/js/2.7de0e063.chunk.js.map",
+    "index.html": "/react_people-table/index.html",
+    "precache-manifest.e2f9b279aaca66439d830fbccc0bfc78.js": "/react_people-table/precache-manifest.e2f9b279aaca66439d830fbccc0bfc78.js",
+    "service-worker.js": "/react_people-table/service-worker.js",
+    "static/css/main.4012daac.chunk.css.map": "/react_people-table/static/css/main.4012daac.chunk.css.map"
   }
 }
